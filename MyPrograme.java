@@ -1,3 +1,5 @@
+//Event Handling Using Applet
+//run commamnd = appletviewer <filename> in Command Prompt
 import java.applet.Applet;
 import java.awt.event.*;
 import java.awt.*;
